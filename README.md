@@ -1,4 +1,4 @@
-<h1>Husker Du!</h1>
+<h1 align='center'>Husker Du!</h1>
 ### Hi there :rocket:
 
 <!--
