@@ -1,5 +1,6 @@
 <h1 align='center'>Husker Du!</h1>
-### Hi there :rocket:
+![Spidey](/images/spidey.jpg)
+### Hi there :rocket: :latvia:
 
 <!--
 **ojarsbuddy/ojarsbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
