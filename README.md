@@ -1,5 +1,7 @@
 <h1 align='center'>Husker Du!</h1>
-![Spidey](ojarsbuddy/images/spidey.jpg)
+
+![Spidey](https://ojarsbuddy.github.com/ojarsbuddy/images/spidey.jpg)
+
 ### Hi there :rocket: :latvia:
 
 <!--
