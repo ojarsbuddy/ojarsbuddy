@@ -1,6 +1,6 @@
 <h1 align='center'>Husker Du!</h1>
 
-![Spidey](https://ojarsbuddy.github.com/ojarsbuddy/images/spidey.jpg)
+![Spidey](./images/spidey.jpg)
 
 ### Hi there :rocket: :latvia:
 
