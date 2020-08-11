@@ -1,6 +1,6 @@
 <h1 align='center'>Husker Du!</h1>
 
-<img src="https://github.com/ojarsbuddy/ojarsbuddy/blob/master/images/spidey.jpg" width="50">
+<img src="https://github.com/ojarsbuddy/ojarsbuddy/blob/master/images/spidey.jpg" width="480">
 
 ### Hi there :rocket: :latvia:
 
