@@ -2,7 +2,7 @@
 
 One README profile to go!
 
-<img src="https://github.com/ojarsbuddy/ojarsbuddy/blob/master/images/spidey.jpg" width="480">
+<div align="center"><img src="https://github.com/ojarsbuddy/ojarsbuddy/blob/master/images/spidey.jpg" width="480"></div>
 
 ### Hi there :rocket: :latvia:
 
