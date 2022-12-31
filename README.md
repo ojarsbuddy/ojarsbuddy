@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
 
 ```mermaid
 graph TD;
-    A-->B;
+    :latvia:-->:rocket:;
     A-->C;
     B-->D;
     C-->D;
