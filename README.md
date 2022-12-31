@@ -6,6 +6,14 @@ One README profile to go!
 
 ### Hi there :rocket: :latvia:
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 <!--
 **ojarsbuddy/ojarsbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,19 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-
-```mermaid
-graph TD;
-    :latvia:-->:rocket:;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-::: mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-:::
